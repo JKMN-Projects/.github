@@ -9,3 +9,10 @@
 ### GraphFlix
 
 ### ShineShift
+- IOT Device
+  - Sensor
+  - Digital Switch
+- Backend
+  - Gateway Api
+  - RabbitMq
+  - ShineShift Api
