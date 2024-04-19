@@ -5,6 +5,7 @@
 - Mikkel Pedersen
 - Niklas Jul
 
-## GraphFlix
+## Projects
+### GraphFlix
 
-## ShineShift
+### ShineShift
