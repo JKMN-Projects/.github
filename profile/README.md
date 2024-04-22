@@ -17,4 +17,6 @@
   - Gateway Api
   - RabbitMq
   - ShineShift Api
+- Frontend
+  - ShineShift Configurator (Website)
 
