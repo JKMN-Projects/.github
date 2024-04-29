@@ -8,6 +8,8 @@
 ## Projects
 ### GraphFlix
 
+---
+
 ### ShineShift
 ![ShineShift](https://github.com/JKMN-Projects/.github/blob/main/IOT/ShineShift/logo.png)
 - IOT Device
