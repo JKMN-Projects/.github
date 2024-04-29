@@ -6,10 +6,12 @@
 - Niklas Jul
 
 ## Projects
-### GraphFlix
 
 ---
+### GraphFlix
+---
 
+---
 ### ShineShift
 ![ShineShift](https://github.com/JKMN-Projects/.github/blob/main/IOT/ShineShift/logo.png)
 - IOT Device
@@ -21,4 +23,4 @@
   - ShineShift Api
 - Frontend
   - ShineShift Configurator (Website)
-
+---
